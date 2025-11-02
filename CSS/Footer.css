@@ -1,0 +1,48 @@
+.main-footer {
+    background-color: #0a2e73; /* Same as Header color */
+    color: #fff;
+    text-align: center;
+    padding: 30px 20px;
+}
+
+.footer-content h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.footer-content p {
+    margin: 5px 0 20px;
+    font-size: 14px;
+}
+
+.footer-links a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.social-icons {
+    margin: 15px 0;
+}
+
+.social-icons a {
+    color: #fff;
+    margin: 0 10px;
+    font-size: 20px;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #ffcc00; /* Yellow hover effect */
+}
+
+.copyright {
+    font-size: 12px;
+    opacity: 0.7;
+    margin-top: 10px;
+}
